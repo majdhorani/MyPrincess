@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "images": [
+        "https://github.com/majdhorani/MyPrincess/blob/main/pants1.png"
+      ],
+      "thumbnail": "https://github.com/majdhorani/MyPrincess/blob/main/pants1-thumbnail.png",
+      "price": 0,
+      "type": "pants"
+    },
+    {
+      "id": 2,
+      "images": [
+        "https://github.com/majdhorani/MyPrincess/blob/main/pants2.png"
+      ],
+      "thumbnail": "https://github.com/majdhorani/MyPrincess/blob/main/pants2-thumbnail.png",
+      "price": 1000,
+      "type": "pants",
+      "isPurchased": true
+    },
+    {
+      "id": 3,
+      "images": [
+        "https://github.com/majdhorani/MyPrincess/blob/main/pants3.png"
+      ],
+      "thumbnail": "https://github.com/majdhorani/MyPrincess/blob/main/pants3-thumbnail.png",
+      "price": 1100,
+      "type": "pants",
+      "isPurchased": false
+    },
+    {
+      "id": 4,
+      "images": [
+        "https://github.com/majdhorani/MyPrincess/blob/main/skirt1.png"
+      ],
+      "thumbnail": "https://github.com/majdhorani/MyPrincess/blob/main/skirt1-thumbnail.png",
+      "price": 3500,
+      "type": "skirt",
+      "isPurchased": true
+    },
+    {
+      "id": 5,
+      "images": [
+        "https://github.com/majdhorani/MyPrincess/blob/main/skirt2.png"
+      ],
+      "thumbnail": "https://github.com/majdhorani/MyPrincess/blob/main/skirt2-thumbnail.png",
+      "price": 800,
+      "type": "skirt",
+      "isPurchased": false
+    },
+    {
+      "id": 6,
+      "images": [
+        "https://github.com/majdhorani/MyPrincess/blob/main/skirt3.png"
+      ],
+      "thumbnail": "https://github.com/majdhorani/MyPrincess/blob/main/skirt3-thumbnail.png",
+      "price": 1000,
+      "type": "skirt",
+      "isPurchased": false
+    }
+  ]
+}
