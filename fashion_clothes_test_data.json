@@ -7,7 +7,9 @@
       ],
       "thumbnail": "pants1-thumbnail.png",
       "price": 0,
-      "type": "pants"
+      "type": "Clothes",
+      "super_type": "Pants",
+      "isPurchased": false
     },
     {
       "id": 2,
@@ -16,7 +18,8 @@
       ],
       "thumbnail": "pants2-thumbnail.png",
       "price": 1000,
-      "type": "pants",
+      "type": "Clothes",
+      "super_type": "Pants"
       "isPurchased": true
     },
     {
@@ -26,7 +29,8 @@
       ],
       "thumbnail": "pants3-thumbnail.png",
       "price": 1100,
-      "type": "pants",
+      "type": "Clothes",
+      "super_type": "Pants"
       "isPurchased": false
     },
     {
@@ -36,7 +40,8 @@
       ],
       "thumbnail": "skirt1-thumbnail.png",
       "price": 3500,
-      "type": "skirt",
+      "type": "Clothes",
+      "super_type": "Skirt"
       "isPurchased": true
     },
     {
@@ -46,7 +51,8 @@
       ],
       "thumbnail": "skirt2-thumbnail.png",
       "price": 800,
-      "type": "skirt",
+      "type": "Clothes",
+      "super_type": "Skirt"
       "isPurchased": false
     },
     {
@@ -56,7 +62,8 @@
       ],
       "thumbnail": "skirt3-thumbnail.png",
       "price": 1000,
-      "type": "skirt",
+      "type": "Clothes",
+      "super_type": "Skirt"
       "isPurchased": false
     }
   ]
