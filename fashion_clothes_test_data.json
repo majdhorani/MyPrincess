@@ -41,7 +41,7 @@
       "thumbnail": "skirt1-thumbnail.png",
       "price": 3500,
       "type": "Clothes",
-      "super_type": "Skirt"
+      "super_type": "Skirt",
       "isPurchased": true
     },
     {
