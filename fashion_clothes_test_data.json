@@ -19,7 +19,7 @@
       "thumbnail": "pants2-thumbnail.png",
       "price": 1000,
       "type": "Clothes",
-      "super_type": "Pants"
+      "super_type": "Pants",
       "isPurchased": true
     },
     {
@@ -30,7 +30,7 @@
       "thumbnail": "pants3-thumbnail.png",
       "price": 1100,
       "type": "Clothes",
-      "super_type": "Pants"
+      "super_type": "Pants",
       "isPurchased": false
     },
     {
@@ -52,7 +52,7 @@
       "thumbnail": "skirt2-thumbnail.png",
       "price": 800,
       "type": "Clothes",
-      "super_type": "Skirt"
+      "super_type": "Skirt",
       "isPurchased": false
     },
     {
@@ -63,7 +63,7 @@
       "thumbnail": "skirt3-thumbnail.png",
       "price": 1000,
       "type": "Clothes",
-      "super_type": "Skirt"
+      "super_type": "Skirt",
       "isPurchased": false
     }
   ]
