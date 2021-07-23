@@ -1,1 +1,80 @@
-
+{
+  "result":[
+    {
+      "id": 1,
+      "images": [
+        "shoe1.png"
+      ],
+      "thumbnail": "shoe1-thumbnail.png",
+      "price": 800,
+      "type": "Shoeses",
+      super_type: ""
+    },
+    {
+      "id": 2,
+      "images": [
+        "shoe2.png"
+      ],
+      "thumbnail": "shoe12-thumbnail.png",
+      "price": 1100,
+      "type": "Shoeses",
+      "isPurchased": true,
+      super_type: ""
+    },
+    {
+      "id": 3,
+      "images": [
+        "shoe3.png"
+      ],
+      "thumbnail": "shoe3-thumbnail.png",
+      "price": 1100,
+      "type": "Shoeses",
+      "isPurchased": false,
+      super_type: ""
+    },
+    {
+      "id": 4,
+      "images": [
+        "shoe4.png"
+      ],
+      "thumbnail": "shoe4-thumbnail.png",
+      "price": 10000,
+      "type": "Shoeses",
+      "isPurchased": true,
+      super_type: ""
+    },
+    {
+      "id": 5,
+      "images": [
+        "shoe5.png"
+      ],
+      "thumbnail": "shoe5-thumbnail.png",
+      "price": 800,
+      "type": "Shoeses",
+      "isPurchased": false,
+      super_type: ""
+    },
+    {
+      "id": 6,
+      "images": [
+        "shoe6.png"
+      ],
+      "thumbnail": "shoe6-thumbnail.png",
+      "price": 1000,
+      "type": "Shoeses",
+      "isPurchased": false,
+      super_type: ""
+    },
+    {
+      "id": 7,
+      "images": [
+        "shoe7.png"
+      ],
+      "thumbnail": "shoe7-thumbnail.png",
+      "price": 0,
+      "type": "Shoeses",
+      "isPurchased": false,
+      super_type: ""
+    }
+  ]
+}
