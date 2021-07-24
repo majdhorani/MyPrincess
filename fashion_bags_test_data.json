@@ -1,1 +1,70 @@
-
+{
+  "result":[
+    {
+      "id": 1,
+      "images": [
+        "bag1.png"
+      ],
+      "thumbnail": "bag1-thumbnail.png",
+      "price": 0,
+      "type": "Bags",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 2,
+      "images": [
+        "bag2.png"
+      ],
+      "thumbnail": "bag2-thumbnail.png",
+      "price": 1000,
+      "type": "Bags",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 3,
+      "images": [
+        "bag3.png"
+      ],
+      "thumbnail": "bag3-thumbnail.png",
+      "price": 1100,
+      "type": "Bags",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 4,
+      "images": [
+        "bag4.png"
+      ],
+      "thumbnail": "bag4-thumbnail.png",
+      "price": 3500,
+      "type": "Bags",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 5,
+      "images": [
+        "bag5.png"
+      ],
+      "thumbnail": "bag5-thumbnail.png",
+      "price": 800,
+      "type": "Bags",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 6,
+      "images": [
+        "bag6.png"
+      ],
+      "thumbnail": "bag6-thumbnail.png",
+      "price": 1000,
+      "type": "Bags",
+      "super_type": "",
+      "isPurchased": false
+    }
+  ]
+}
