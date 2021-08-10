@@ -45,29 +45,161 @@
       "isPurchased": true
     },
     {
-      "id": 2,
+      "id": 5,
       "images": [
         "pants5.png"
       ],
       "thumbnail": "pants5-thumbnail.png",
       "price": 1000,
       "type": "Clothes",
-      "super_type": "Pants",
+      "super_type": "Dress",
       "isPurchased": true
     },
     {
-      "id": 2,
+      "id": 6,
       "images": [
         "pants6.png"
       ],
       "thumbnail": "pants6-thumbnail.png",
       "price": 1000,
       "type": "Clothes",
-      "super_type": "Pants",
+      "super_type": "Dress",
       "isPurchased": true
     },
     {
-      "id": 4,
+      "id": 7,
+      "images": [
+        "dress1.png"
+      ],
+      "thumbnail": "dress1-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 8,
+      "images": [
+        "dress2.png"
+      ],
+      "thumbnail": "dress2-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 9,
+      "images": [
+        "dress3.png"
+      ],
+      "thumbnail": "dress3-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 10,
+      "images": [
+        "dress4.png"
+      ],
+      "thumbnail": "dress4-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 11,
+      "images": [
+        "dress5.png"
+      ],
+      "thumbnail": "dress5-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 12,
+      "images": [
+        "dress6.png"
+      ],
+      "thumbnail": "dress6-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 13,
+      "images": [
+        "dress7.png"
+      ],
+      "thumbnail": "dress7-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 14,
+      "images": [
+        "dress8.png"
+      ],
+      "thumbnail": "dress8-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 15,
+      "images": [
+        "coat1.png"
+      ],
+      "thumbnail": "coat1-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 16,
+      "images": [
+        "coat2.png"
+      ],
+      "thumbnail": "coat2-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 17,
+      "images": [
+        "coat3.png"
+      ],
+      "thumbnail": "coat3-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 18,
+      "images": [
+        "coat4.png"
+      ],
+      "thumbnail": "coat4-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 19,
       "images": [
         "skirt1.png"
       ],
@@ -78,7 +210,7 @@
       "isPurchased": true
     },
     {
-      "id": 5,
+      "id": 20,
       "images": [
         "skirt2.png"
       ],
@@ -89,7 +221,7 @@
       "isPurchased": false
     },
     {
-      "id": 6,
+      "id": 21,
       "images": [
         "skirt3.png"
       ],
