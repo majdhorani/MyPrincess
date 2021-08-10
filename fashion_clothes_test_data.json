@@ -28,10 +28,43 @@
         "pants3.png"
       ],
       "thumbnail": "pants3-thumbnail.png",
-      "price": 1100,
+      "price": 1000,
       "type": "Clothes",
       "super_type": "Pants",
-      "isPurchased": false
+      "isPurchased": true
+    },
+    {
+      "id": 4,
+      "images": [
+        "pants4.png"
+      ],
+      "thumbnail": "pants4-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Pants",
+      "isPurchased": true
+    },
+    {
+      "id": 2,
+      "images": [
+        "pants5.png"
+      ],
+      "thumbnail": "pants5-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Pants",
+      "isPurchased": true
+    },
+    {
+      "id": 2,
+      "images": [
+        "pants6.png"
+      ],
+      "thumbnail": "pants6-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Pants",
+      "isPurchased": true
     },
     {
       "id": 4,
