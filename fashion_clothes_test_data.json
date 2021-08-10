@@ -52,7 +52,7 @@
       "thumbnail": "pants5-thumbnail.png",
       "price": 1000,
       "type": "Clothes",
-      "super_type": "Dress",
+      "super_type": "Pants",
       "isPurchased": true
     },
     {
@@ -63,7 +63,7 @@
       "thumbnail": "pants6-thumbnail.png",
       "price": 1000,
       "type": "Clothes",
-      "super_type": "Dress",
+      "super_type": "Pants",
       "isPurchased": true
     },
     {
