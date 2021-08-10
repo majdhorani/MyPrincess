@@ -230,6 +230,28 @@
       "type": "Clothes",
       "super_type": "Skirt",
       "isPurchased": false
-    }
+    },
+    {
+      "id": 22,
+      "images": [
+        "body1.png"
+      ],
+      "thumbnail": "body1-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Body",
+      "isPurchased": false
+    },
+    {
+      "id": 23,
+      "images": [
+        "body2.png"
+      ],
+      "thumbnail": "body2-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Body",
+      "isPurchased": true
+    },
   ]
 }
