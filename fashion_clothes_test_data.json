@@ -67,6 +67,94 @@
       "isPurchased": true
     },
     {
+      "id": 7,
+      "images": [
+        "dress1.png"
+      ],
+      "thumbnail": "dress1-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 8,
+      "images": [
+        "dress2.png"
+      ],
+      "thumbnail": "dress2-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 9,
+      "images": [
+        "dress3.png"
+      ],
+      "thumbnail": "dress3-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 10,
+      "images": [
+        "dress4.png"
+      ],
+      "thumbnail": "dress4-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 11,
+      "images": [
+        "dress5.png"
+      ],
+      "thumbnail": "dress5-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 12,
+      "images": [
+        "dress6.png"
+      ],
+      "thumbnail": "dress6-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 13,
+      "images": [
+        "dress7.png"
+      ],
+      "thumbnail": "dress7-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 14,
+      "images": [
+        "dress8.png"
+      ],
+      "thumbnail": "dress8-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
       "id": 15,
       "images": [
         "coat1.png"
