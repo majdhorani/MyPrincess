@@ -43,6 +43,127 @@
       "type": "Clothes",
       "super_type": "Pants",
       "isPurchased": true
+    },
+    {
+      "id": 5,
+      "images": [
+        "pants5.png"
+      ],
+      "thumbnail": "pants5-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 6,
+      "images": [
+        "pants6.png"
+      ],
+      "thumbnail": "pants6-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Dress",
+      "isPurchased": true
+    },
+    {
+      "id": 15,
+      "images": [
+        "coat1.png"
+      ],
+      "thumbnail": "coat1-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 16,
+      "images": [
+        "coat2.png"
+      ],
+      "thumbnail": "coat2-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 17,
+      "images": [
+        "coat3.png"
+      ],
+      "thumbnail": "coat3-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 18,
+      "images": [
+        "coat4.png"
+      ],
+      "thumbnail": "coat4-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Coat",
+      "isPurchased": true
+    },
+    {
+      "id": 19,
+      "images": [
+        "skirt1.png"
+      ],
+      "thumbnail": "skirt1-thumbnail.png",
+      "price": 3500,
+      "type": "Clothes",
+      "super_type": "Skirt",
+      "isPurchased": true
+    },
+    {
+      "id": 20,
+      "images": [
+        "skirt2.png"
+      ],
+      "thumbnail": "skirt2-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Skirt",
+      "isPurchased": false
+    },
+    {
+      "id": 21,
+      "images": [
+        "skirt3.png"
+      ],
+      "thumbnail": "skirt3-thumbnail.png",
+      "price": 1000,
+      "type": "Clothes",
+      "super_type": "Skirt",
+      "isPurchased": false
+    },
+    {
+      "id": 22,
+      "images": [
+        "body1.png"
+      ],
+      "thumbnail": "body1-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Body",
+      "isPurchased": false
+    },
+    {
+      "id": 23,
+      "images": [
+        "body2.png"
+      ],
+      "thumbnail": "body2-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Body",
+      "isPurchased": true
     }
   ]
 }
