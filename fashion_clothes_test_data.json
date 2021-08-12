@@ -252,6 +252,94 @@
       "type": "Clothes",
       "super_type": "Body",
       "isPurchased": true
+    },
+    {
+      "id": 24,
+      "images": [
+        "shirt1.png"
+      ],
+      "thumbnail": "shirt1-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
+    },
+    {
+      "id": 25,
+      "images": [
+        "shirt2.png"
+      ],
+      "thumbnail": "shirt2-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
+    },
+    {
+      "id": 26,
+      "images": [
+        "shirt3.png"
+      ],
+      "thumbnail": "shirt3-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
+    },
+    {
+      "id": 27,
+      "images": [
+        "shirt4.png"
+      ],
+      "thumbnail": "shirt4-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
+    },
+    {
+      "id": 28,
+      "images": [
+        "shirt5.png"
+      ],
+      "thumbnail": "shirt5-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
+    },
+    {
+      "id": 29,
+      "images": [
+        "shirt6.png"
+      ],
+      "thumbnail": "shirt6-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
+    },
+    {
+      "id": 30,
+      "images": [
+        "shirt7.png"
+      ],
+      "thumbnail": "shirt7-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
+    },
+    {
+      "id": 31,
+      "images": [
+        "shirt8.png"
+      ],
+      "thumbnail": "shirt8-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Shirt",
+      "isPurchased": true
     }
   ]
 }
