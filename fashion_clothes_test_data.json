@@ -340,6 +340,83 @@
       "type": "Clothes",
       "super_type": "Shirt",
       "isPurchased": true
+    },
+    {
+      "id": 32,
+      "images": [
+        "jacket1.png"
+      ],
+      "thumbnail": "jacket1-thumbnail.png",
+      "price": 800,
+      "type": "Clothes",
+      "super_type": "Jacket",
+      "isPurchased": true
+    },
+    {
+      "id": 33,
+      "images": [
+        "jacket2.png"
+      ],
+      "thumbnail": "jacket2-thumbnail.png",
+      "price": 8000,
+      "type": "Clothes",
+      "super_type": "Jacket",
+      "isPurchased": false
+    },
+    {
+      "id": 34,
+      "images": [
+        "jacket3.png"
+      ],
+      "thumbnail": "jacket3-thumbnail.png",
+      "price": 0,
+      "type": "Clothes",
+      "super_type": "Jacket",
+      "isPurchased": true
+    },
+    {
+      "id": 35,
+      "images": [
+        "jacket4.png"
+      ],
+      "thumbnail": "jacket4-thumbnail.png",
+      "price": 0,
+      "type": "Clothes",
+      "super_type": "Jacket",
+      "isPurchased": false
+    },
+    {
+      "id": 36,
+      "images": [
+        "jacket5.png"
+      ],
+      "thumbnail": "jacket5-thumbnail.png",
+      "price": 0,
+      "type": "Clothes",
+      "super_type": "Jacket",
+      "isPurchased": true
+    },
+    {
+      "id": 37,
+      "images": [
+        "jacket6.png"
+      ],
+      "thumbnail": "jacket6-thumbnail.png",
+      "price": 0,
+      "type": "Clothes",
+      "super_type": "Jacket",
+      "isPurchased": false
+    },
+    {
+      "id": 38,
+      "images": [
+        "jacket7.png"
+      ],
+      "thumbnail": "jacket7-thumbnail.png",
+      "price": 0,
+      "type": "Clothes",
+      "super_type": "Jacket",
+      "isPurchased": true
     }
   ]
 }
