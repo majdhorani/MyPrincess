@@ -1,80 +1,114 @@
 {
-"result": [
-{
-"id": 1,
-"images": [
-"shoe1.png"
-],
-"thumbnail": "shoe1-thumbnail.png",
-"price": 800,
-"type": "Shoeses",
-"super_type": ""
-},
-{
-"id": 2,
-"images": [
-"shoe2.png"
-],
-"thumbnail": "shoe12-thumbnail.png",
-"price": 1100,
-"type": "Shoeses",
-"isPurchased": true,
-"super_type": ""
-},
-{
-"id": 3,
-"images": [
-"shoe3.png"
-],
-"thumbnail": "shoe3-thumbnail.png",
-"price": 1100,
-"type": "Shoeses",
-"isPurchased": false,
-"super_type": ""
-},
-{
-"id": 4,
-"images": [
-"shoe4.png"
-],
-"thumbnail": "shoe4-thumbnail.png",
-"price": 10000,
-"type": "Shoeses",
-"isPurchased": true,
-"super_type": ""
-},
-{
-"id": 5,
-"images": [
-"shoe5.png"
-],
-"thumbnail": "shoe5-thumbnail.png",
-"price": 800,
-"type": "Shoeses",
-"isPurchased": false,
-"super_type": ""
-},
-{
-"id": 6,
-"images": [
-"shoe6.png"
-],
-"thumbnail": "shoe6-thumbnail.png",
-"price": 1000,
-"type": "Shoeses",
-"isPurchased": false,
-"super_type": ""
-},
-{
-"id": 7,
-"images": [
-"shoe7.png"
-],
-"thumbnail": "shoe7-thumbnail.png",
-"price": 0,
-"type": "Shoeses",
-"isPurchased": false,
-"super_type": ""
-}
-]
+  "result":[
+    {
+      "id": 101,
+      "images": [
+        "hair1.png"
+      ],
+      "thumbnail": "hair1-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 102,
+      "images": [
+        "hair2.png"
+      ],
+      "thumbnail": "hair2-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 103,
+      "images": [
+        "hair3.png"
+      ],
+      "thumbnail": "hair3-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 104,
+      "images": [
+        "hair4.png"
+      ],
+      "thumbnail": "hair4-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 105,
+      "images": [
+        "hair5.png"
+      ],
+      "thumbnail": "hair5-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 106,
+      "images": [
+        "hair6.png"
+      ],
+      "thumbnail": "hair6-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 107,
+      "images": [
+        "hair7.png"
+      ],
+      "thumbnail": "hair7-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": false
+    },
+    {
+      "id": 108,
+      "images": [
+        "hair8.png"
+      ],
+      "thumbnail": "hair8-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 109,
+      "images": [
+        "hair9.png"
+      ],
+      "thumbnail": "hair9-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 110,
+      "images": [
+        "hair10.png"
+      ],
+      "thumbnail": "hair10-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "",
+      "isPurchased": false
+    },
+  ]
 }
