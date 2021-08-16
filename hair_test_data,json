@@ -3,6 +3,7 @@
     {
       "id": 101,
       "images": [
+        "hair1-fashion.png",
         "hair1.png"
       ],
       "thumbnail": "hair1-thumbnail.png",
@@ -14,7 +15,8 @@
     {
       "id": 102,
       "images": [
-        "hair2.png"
+        "hair1-fashion.png",
+        "hair1.png"
       ],
       "thumbnail": "hair2-thumbnail.png",
       "price": 0,
@@ -25,6 +27,7 @@
     {
       "id": 103,
       "images": [
+        "hair3-fashion.png",
         "hair3.png"
       ],
       "thumbnail": "hair3-thumbnail.png",
@@ -36,6 +39,7 @@
     {
       "id": 104,
       "images": [
+        "hair4-fashion.png",
         "hair4.png"
       ],
       "thumbnail": "hair4-thumbnail.png",
@@ -47,6 +51,7 @@
     {
       "id": 105,
       "images": [
+        "hair5-fashion.png",
         "hair5.png"
       ],
       "thumbnail": "hair5-thumbnail.png",
@@ -58,6 +63,7 @@
     {
       "id": 106,
       "images": [
+        "hair6-fashion.png",
         "hair6.png"
       ],
       "thumbnail": "hair6-thumbnail.png",
@@ -69,6 +75,7 @@
     {
       "id": 107,
       "images": [
+        "hair7-fashion.png",
         "hair7.png"
       ],
       "thumbnail": "hair7-thumbnail.png",
@@ -80,6 +87,7 @@
     {
       "id": 108,
       "images": [
+        "hair8-fashion.png",
         "hair8.png"
       ],
       "thumbnail": "hair8-thumbnail.png",
@@ -91,6 +99,7 @@
     {
       "id": 109,
       "images": [
+        "hair9-fashion.png",
         "hair9.png"
       ],
       "thumbnail": "hair9-thumbnail.png",
@@ -102,6 +111,7 @@
     {
       "id": 110,
       "images": [
+        "hair10-fashion.png",
         "hair10.png"
       ],
       "thumbnail": "hair10-thumbnail.png",
