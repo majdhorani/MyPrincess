@@ -119,6 +119,162 @@
       "type": "Hair",
       "super_type": "",
       "isPurchased": false
+    },
+    {
+      "id": 111,
+      "images": [
+        "hijab1-fashion.png",
+        "hijab1-makeup.png"
+      ],
+      "thumbnail": "hijab1-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 112,
+      "images": [
+        "hijab2-fashion.png",
+        "hijab2-makeup.png"
+      ],
+      "thumbnail": "hijab2-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 113,
+      "images": [
+        "hijab3-fashion.png",
+        "hijab3-makeup.png"
+      ],
+      "thumbnail": "hijab3-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 114,
+      "images": [
+        "hijab4-fashion.png",
+        "hijab4-makeup.png"
+      ],
+      "thumbnail": "hijab4-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 115,
+      "images": [
+        "hijab5-fashion.png",
+        "hijab5-makeup.png"
+      ],
+      "thumbnail": "hijab5-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 116,
+      "images": [
+        "hijab6-fashion.png",
+        "hijab6-makeup.png"
+      ],
+      "thumbnail": "hijab6-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 1171,
+      "images": [
+        "hijab7-fashion.png",
+        "hijab7-makeup.png"
+      ],
+      "thumbnail": "hijab7-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 118,
+      "images": [
+        "hijab8-fashion.png",
+        "hijab8-makeup.png"
+      ],
+      "thumbnail": "hijab8-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 119,
+      "images": [
+        "hijab9-fashion.png",
+        "hijab9-makeup.png"
+      ],
+      "thumbnail": "hijab9-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 120,
+      "images": [
+        "hijab10-fashion.png",
+        "hijab10-makeup.png"
+      ],
+      "thumbnail": "hijab10-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 121,
+      "images": [
+        "hijab11-fashion.png",
+        "hijab11-makeup.png"
+      ],
+      "thumbnail": "hijab11-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 122,
+      "images": [
+        "hijab12-fashion.png",
+        "hijab12-makeup.png"
+      ],
+      "thumbnail": "hijab12-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
+    },
+    {
+      "id": 123,
+      "images": [
+        "hijab13-fashion.png",
+        "hijab13-makeup.png"
+      ],
+      "thumbnail": "hijab13-thumbnail.png",
+      "price": 0,
+      "type": "Hair",
+      "super_type": "Hijab",
+      "isPurchased": false
     }
   ]
 }
