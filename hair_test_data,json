@@ -9,7 +9,7 @@
       "thumbnail": "hair1-thumbnail.png",
       "price": 100,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": true
     },
     {
@@ -21,7 +21,7 @@
       "thumbnail": "hair2-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": true
     },
     {
@@ -33,7 +33,7 @@
       "thumbnail": "hair3-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": false
     },
     {
@@ -45,7 +45,7 @@
       "thumbnail": "hair4-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": false
     },
     {
@@ -57,7 +57,7 @@
       "thumbnail": "hair5-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": false
     },
     {
@@ -69,7 +69,7 @@
       "thumbnail": "hair6-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": false
     },
     {
@@ -81,7 +81,7 @@
       "thumbnail": "hair7-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": false
     },
     {
@@ -93,7 +93,7 @@
       "thumbnail": "hair8-thumbnail.png",
       "price": 100,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": true
     },
     {
@@ -105,7 +105,7 @@
       "thumbnail": "hair9-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": true
     },
     {
@@ -117,7 +117,7 @@
       "thumbnail": "hair10-thumbnail.png",
       "price": 0,
       "type": "Hair",
-      "super_type": "",
+      "super_type": "Hair",
       "isPurchased": false
     },
     {
@@ -151,10 +151,10 @@
         "hijab3-makeup.png"
       ],
       "thumbnail": "hijab3-thumbnail.png",
-      "price": 0,
+      "price": 2000,
       "type": "Hair",
       "super_type": "Hijab",
-      "isPurchased": false
+      "isPurchased": true
     },
     {
       "id": 114,
@@ -187,10 +187,10 @@
         "hijab6-makeup.png"
       ],
       "thumbnail": "hijab6-thumbnail.png",
-      "price": 0,
+      "price": 3000,
       "type": "Hair",
       "super_type": "Hijab",
-      "isPurchased": false
+      "isPurchased": true
     },
     {
       "id": 1171,
