@@ -7,7 +7,7 @@
       ],
       "thumbnail": "lip1-thumbnail.png",
       "price": 100,
-      "type": "Eyes",
+      "type": "Lips",
       "super_type": "",
       "isPurchased": true
     },
@@ -18,7 +18,7 @@
       ],
       "thumbnail": "lip2-thumbnail.png",
       "price": 100,
-      "type": "Eyes",
+      "type": "Lips",
       "super_type": "",
       "isPurchased": true
     },
@@ -29,7 +29,7 @@
       ],
       "thumbnail": "lip3-thumbnail.png",
       "price": 100,
-      "type": "Eyes",
+      "type": "Lips",
       "super_type": "",
       "isPurchased": true
     },
@@ -40,7 +40,7 @@
       ],
       "thumbnail": "lip4-thumbnail.png",
       "price": 100,
-      "type": "Eyes",
+      "type": "Lips",
       "super_type": "",
       "isPurchased": true
     },
@@ -51,7 +51,7 @@
       ],
       "thumbnail": "lip5-thumbnail.png",
       "price": 0,
-      "type": "Eyes",
+      "type": "Lips",
       "super_type": "",
       "isPurchased": true
     },
@@ -62,7 +62,7 @@
       ],
       "thumbnail": "lip6-thumbnail.png",
       "price": 0,
-      "type": "Eyes",
+      "type": "Lips",
       "super_type": "",
       "isPurchased": true
     },
@@ -73,7 +73,7 @@
       ],
       "thumbnail": "lip7-thumbnail.png",
       "price": 0,
-      "type": "Eyes",
+      "type": "Lips",
       "super_type": "",
       "isPurchased": true
     }
