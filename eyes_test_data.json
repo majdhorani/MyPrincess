@@ -1,0 +1,70 @@
+{
+  "result":[
+    {
+      "id": 101,
+      "images": [
+        "eyes1.png"
+      ],
+      "thumbnail": "eyes1-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "Hair",
+      "isPurchased": true
+    },
+    {
+      "id": 102,
+      "images": [
+        "eyes2.png"
+      ],
+      "thumbnail": "eyes2-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "Hair",
+      "isPurchased": true
+    },
+    {
+      "id": 103,
+      "images": [
+        "eyes3.png"
+      ],
+      "thumbnail": "eyes3-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "Hair",
+      "isPurchased": true
+    },
+    {
+      "id": 104,
+      "images": [
+        "eyes4.png"
+      ],
+      "thumbnail": "eyes4-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "Hair",
+      "isPurchased": true
+    },
+    {
+      "id": 105,
+      "images": [
+        "eyes5.png"
+      ],
+      "thumbnail": "eyes5-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "Hair",
+      "isPurchased": true
+    },
+    {
+      "id": 106,
+      "images": [
+        "eyes6.png"
+      ],
+      "thumbnail": "eyes6-thumbnail.png",
+      "price": 100,
+      "type": "Hair",
+      "super_type": "Hair",
+      "isPurchased": true
+    }
+  ]
+}
