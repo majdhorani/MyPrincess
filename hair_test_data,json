@@ -4,7 +4,7 @@
       "id": 101,
       "images": [
         "hair1-fashion.png",
-        "hair1.png"
+        "hair1-makeup.png"
       ],
       "thumbnail": "hair1-thumbnail.png",
       "price": 100,
@@ -16,7 +16,7 @@
       "id": 102,
       "images": [
         "hair2-fashion.png",
-        "hair2.png"
+        "hair2-makeup.png"
       ],
       "thumbnail": "hair2-thumbnail.png",
       "price": 0,
@@ -28,7 +28,7 @@
       "id": 103,
       "images": [
         "hair3-fashion.png",
-        "hair3.png"
+        "hair3-makeup.png"
       ],
       "thumbnail": "hair3-thumbnail.png",
       "price": 0,
@@ -40,7 +40,7 @@
       "id": 104,
       "images": [
         "hair4-fashion.png",
-        "hair4.png"
+        "hair4-makeup.png"
       ],
       "thumbnail": "hair4-thumbnail.png",
       "price": 0,
@@ -52,7 +52,7 @@
       "id": 105,
       "images": [
         "hair5-fashion.png",
-        "hair5.png"
+        "hair5-makeup.png"
       ],
       "thumbnail": "hair5-thumbnail.png",
       "price": 0,
@@ -64,7 +64,7 @@
       "id": 106,
       "images": [
         "hair6-fashion.png",
-        "hair6.png"
+        "hair6-makeup.png"
       ],
       "thumbnail": "hair6-thumbnail.png",
       "price": 0,
@@ -76,7 +76,7 @@
       "id": 107,
       "images": [
         "hair7-fashion.png",
-        "hair7.png"
+        "hair7-makeup.png"
       ],
       "thumbnail": "hair7-thumbnail.png",
       "price": 0,
@@ -88,7 +88,7 @@
       "id": 108,
       "images": [
         "hair8-fashion.png",
-        "hair8.png"
+        "hair8-makeup.png"
       ],
       "thumbnail": "hair8-thumbnail.png",
       "price": 100,
@@ -100,7 +100,7 @@
       "id": 109,
       "images": [
         "hair9-fashion.png",
-        "hair9.png"
+        "hair9-makeup.png"
       ],
       "thumbnail": "hair9-thumbnail.png",
       "price": 0,
@@ -112,7 +112,7 @@
       "id": 110,
       "images": [
         "hair10-fashion.png",
-        "hair10.png"
+        "hair10-makeup.png"
       ],
       "thumbnail": "hair10-thumbnail.png",
       "price": 0,
