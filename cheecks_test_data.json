@@ -1,0 +1,26 @@
+{
+  "result":[
+    {
+      "id": 101,
+      "images": [
+        "cheeck1.png"
+      ],
+      "thumbnail": "cheeck1-thumbnail.png",
+      "price": 100,
+      "type": "Cheecks",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 102,
+      "images": [
+        "cheeck2.png"
+      ],
+      "thumbnail": "cheeck2-thumbnail.png",
+      "price": 100,
+      "type": "Cheecks",
+      "super_type": "",
+      "isPurchased": true
+    }
+  ]
+}
