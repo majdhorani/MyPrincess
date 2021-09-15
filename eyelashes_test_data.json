@@ -1,0 +1,26 @@
+{
+  "result":[
+    {
+      "id": 101,
+      "images": [
+        "eyelashes1.png"
+      ],
+      "thumbnail": "eyelashes1-thumbnail.png",
+      "price": 100,
+      "type": "Eyelashes",
+      "super_type": "",
+      "isPurchased": true
+    },
+    {
+      "id": 102,
+      "images": [
+        "eyelashes2.png"
+      ],
+      "thumbnail": "eyelashes2-thumbnail.png",
+      "price": 100,
+      "type": "Eyelashes",
+      "super_type": "",
+      "isPurchased": true
+    }
+  ]
+}
