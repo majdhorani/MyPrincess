@@ -7,8 +7,8 @@
       ],
       "thumbnail": "eyes1-thumbnail.png",
       "price": 100,
-      "type": "Hair",
-      "super_type": "Hair",
+      "type": "Eyes",
+      "super_type": "",
       "isPurchased": true
     },
     {
@@ -18,8 +18,8 @@
       ],
       "thumbnail": "eyes2-thumbnail.png",
       "price": 100,
-      "type": "Hair",
-      "super_type": "Hair",
+      "type": "Eyes",
+      "super_type": "",
       "isPurchased": true
     },
     {
@@ -29,8 +29,8 @@
       ],
       "thumbnail": "eyes3-thumbnail.png",
       "price": 100,
-      "type": "Hair",
-      "super_type": "Hair",
+      "type": "Eyes",
+      "super_type": "",
       "isPurchased": true
     },
     {
@@ -40,8 +40,8 @@
       ],
       "thumbnail": "eyes4-thumbnail.png",
       "price": 100,
-      "type": "Hair",
-      "super_type": "Hair",
+      "type": "Eyes",
+      "super_type": "",
       "isPurchased": true
     },
     {
@@ -51,8 +51,8 @@
       ],
       "thumbnail": "eyes5-thumbnail.png",
       "price": 100,
-      "type": "Hair",
-      "super_type": "Hair",
+      "type": "Eyes",
+      "super_type": "",
       "isPurchased": true
     },
     {
@@ -62,8 +62,8 @@
       ],
       "thumbnail": "eyes6-thumbnail.png",
       "price": 100,
-      "type": "Hair",
-      "super_type": "Hair",
+      "type": "Eyes",
+      "super_type": "",
       "isPurchased": true
     }
   ]
