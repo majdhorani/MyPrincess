@@ -210,28 +210,6 @@
       "isPurchased": true
     },
     {
-      "id": 1021,
-      "images": [
-        "necklaces1.png"
-      ],
-      "thumbnail": "necklaces1-thumbnail.png",
-      "price": 0,
-      "type": "Accessories",
-      "super_type": "Necklace",
-      "isPurchased": true
-    },
-    {
-      "id": 1022,
-      "images": [
-        "necklaces2.png"
-      ],
-      "thumbnail": "necklaces2-thumbnail.png",
-      "price": 0,
-      "type": "Accessories",
-      "super_type": "Necklace",
-      "isPurchased": true
-    },
-    {
       "id": 1023,
       "images": [
         "necklaces3.png"
@@ -281,17 +259,6 @@
         "necklaces7.png"
       ],
       "thumbnail": "necklaces7-thumbnail.png",
-      "price": 0,
-      "type": "Accessories",
-      "super_type": "Necklace",
-      "isPurchased": true
-    },
-    {
-      "id": 1028,
-      "images": [
-        "necklaces8.png"
-      ],
-      "thumbnail": "necklaces8-thumbnail.png",
       "price": 0,
       "type": "Accessories",
       "super_type": "Necklace",
