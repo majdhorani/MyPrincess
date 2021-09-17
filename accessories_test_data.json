@@ -374,5 +374,82 @@
       "super_type": "Necklace",
       "isPurchased": true
     },
+    {
+      "id": 2001,
+      "images": [
+        "faceAccessories1.png"
+      ],
+      "thumbnail": "faceAccessories1-thumbnail.png",
+      "price": 0,
+      "type": "Accessories",
+      "super_type": "FaceAccessory",
+      "isPurchased": true
+    },
+    {
+      "id": 2002,
+      "images": [
+        "faceAccessories2.png"
+      ],
+      "thumbnail": "faceAccessories2-thumbnail.png",
+      "price": 0,
+      "type": "Accessories",
+      "super_type": "FaceAccessory",
+      "isPurchased": true
+    },
+    {
+      "id": 2003,
+      "images": [
+        "faceAccessories3.png"
+      ],
+      "thumbnail": "faceAccessories3-thumbnail.png",
+      "price": 0,
+      "type": "Accessories",
+      "super_type": "FaceAccessory",
+      "isPurchased": true
+    },
+    {
+      "id": 2004,
+      "images": [
+        "faceAccessories4.png"
+      ],
+      "thumbnail": "faceAccessories4-thumbnail.png",
+      "price": 0,
+      "type": "Accessories",
+      "super_type": "FaceAccessory",
+      "isPurchased": true
+    },
+    {
+      "id": 2005,
+      "images": [
+        "faceAccessories5.png"
+      ],
+      "thumbnail": "faceAccessories5-thumbnail.png",
+      "price": 0,
+      "type": "Accessories",
+      "super_type": "FaceAccessory",
+      "isPurchased": true
+    },
+    {
+      "id": 2006,
+      "images": [
+        "faceAccessories6.png"
+      ],
+      "thumbnail": "faceAccessories6-thumbnail.png",
+      "price": 0,
+      "type": "Accessories",
+      "super_type": "FaceAccessory",
+      "isPurchased": true
+    },
+    {
+      "id": 2007,
+      "images": [
+        "faceAccessories7.png"
+      ],
+      "thumbnail": "faceAccessories7-thumbnail.png",
+      "price": 0,
+      "type": "Accessories",
+      "super_type": "FaceAccessory",
+      "isPurchased": true
+    }
   ]
 }
