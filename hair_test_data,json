@@ -10,7 +10,7 @@
       "price": 100,
       "type": "Hair",
       "super_type": "Hair",
-      "isPurchased": true
+      "isPurchased": false
     },
     {
       "id": 102,
